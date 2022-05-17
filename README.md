@@ -2,13 +2,11 @@
 
 Grup Arkadaşlarım:
 
-<a href="https://github.com/enteresanlikk">Bilal Demir github</a>
+Bilal Demir: <a href="https://github.com/enteresanlikk">GitHub</a> <a href="https://www.linkedin.com/in/bilaldmr/">Linkedin</a>
 
-<a href="https://www.linkedin.com/in/bilaldmr/">Bilal Demir Linkedin</a>
+Tayfur Korkmaz: <a href="https://www.linkedin.com/in/tayfur-korkmaz-profil/">Linkedin</a>
 
-<a href="https://www.linkedin.com/in/tayfur-korkmaz-profil/">Tayfur Korkmaz Linkedin</a>
-
-<a href="https://github.com/SerkanAlpaslan">Serkan Alpaslan github</a>
+Serkan Alpaslan: <a href="https://github.com/SerkanAlpaslan">GitHub</a>
 
 
 
