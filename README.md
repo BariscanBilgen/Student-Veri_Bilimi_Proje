@@ -1,5 +1,17 @@
 # Değişkenlere Bağlı Öğrenci Sınav Performansının Değerlendirilmesi / Veri_Bilimi_Proje
 
+Grup Arkadaşlarım:
+
+<a href="https://github.com/enteresanlikk">Bilal Demir github</a>
+
+<a href="https://www.linkedin.com/in/bilaldmr/">Bilal Demir Linkedin</a>
+
+<a href="https://www.linkedin.com/in/tayfur-korkmaz-profil/">Tayfur Korkmaz Linkedin</a>
+
+<a href="https://github.com/SerkanAlpaslan">Serkan Alpaslan github</a>
+
+
+
 Ebeveyn eğitim seviyesi, öğrenci cinsiyeti, öğrenci ırkı ve sınava hazırlık eğitimi gibi parametrelerin öğrencinin başarısına etkisi üzerine çalışma yapılmıştır. Bu çalışma sonucunda çeşitli kestirimler yapılmıştır. Bunun sonucunda bahsedilen parametrelerle öğrenci başarısı arasında bir ilişki bulanamamıştır.
 
 ![image](https://user-images.githubusercontent.com/91004987/168850287-800a3867-8b6d-404c-9b34-d4b7fbbf161e.png)
