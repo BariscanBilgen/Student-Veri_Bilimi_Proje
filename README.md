@@ -12,6 +12,10 @@ Serkan Alpaslan: <a href="https://github.com/SerkanAlpaslan">GitHub</a>
 
 Ebeveyn eğitim seviyesi, öğrenci cinsiyeti, öğrenci ırkı ve sınava hazırlık eğitimi gibi parametrelerin öğrencinin başarısına etkisi üzerine çalışma yapılmıştır. Bu çalışma sonucunda çeşitli kestirimler yapılmıştır. Bunun sonucunda bahsedilen parametrelerle öğrenci başarısı arasında bir ilişki bulanamamıştır.
 
+Power BI DASHBOARD:
+
+![powerbi](https://user-images.githubusercontent.com/91004987/170045074-4f202476-b3e6-4098-9837-cbf6c14f8fee.JPG)
+
 ![image](https://user-images.githubusercontent.com/91004987/168850287-800a3867-8b6d-404c-9b34-d4b7fbbf161e.png)
 
 ![image](https://user-images.githubusercontent.com/91004987/168850332-b46c4d68-3e6f-4013-9f92-cca06d6ed3c9.png)
